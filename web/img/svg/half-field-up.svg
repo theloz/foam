@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 543 353.4" style="enable-background:new 0 0 543 353.4;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:url(#SVGID_3_);}
+	.st2{fill:#04B218;}
+	.st3{opacity:0.5;fill:url(#SVGID_4_);}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+</style>
+<g id="Background">
+</g>
+<g id="Objects">
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="0" y="0" width="543" height="353.4"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g class="st0">
+			
+				<radialGradient id="SVGID_3_" cx="271.5" cy="3.5" r="312.9397" gradientTransform="matrix(-1 0 0 -1 543 353.4416)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#57BA1C"/>
+				<stop  offset="0.2342" style="stop-color:#50BA1E"/>
+				<stop  offset="0.5779" style="stop-color:#3CBB22"/>
+				<stop  offset="0.9872" style="stop-color:#1CBC2A"/>
+				<stop  offset="1" style="stop-color:#1BBC2A"/>
+			</radialGradient>
+			<rect x="0" y="0.4" class="st1" width="543" height="699"/>
+			<g>
+				<rect x="0" y="662.4" class="st2" width="543" height="37"/>
+				<rect x="0" y="593.4" class="st2" width="543" height="37"/>
+				<rect x="0" y="523.4" class="st2" width="543" height="37"/>
+				<rect x="0" y="454.4" class="st2" width="543" height="37"/>
+				<rect x="0" y="385.4" class="st2" width="543" height="37"/>
+				<rect x="0" y="315.4" class="st2" width="543" height="37"/>
+				<rect x="0" y="246.4" class="st2" width="543" height="37"/>
+				<rect x="0" y="177.4" class="st2" width="543" height="37"/>
+				<rect y="107.4" class="st2" width="543" height="37"/>
+				<rect y="38.4" class="st2" width="543" height="37"/>
+			</g>
+			
+				<radialGradient id="SVGID_4_" cx="271.5" cy="3.5" r="312.9397" gradientTransform="matrix(-1 0 0 -1 543 353.4416)" gradientUnits="userSpaceOnUse">
+				<stop  offset="0" style="stop-color:#FFFFFF"/>
+				<stop  offset="0.1225" style="stop-color:#FBFDFC"/>
+				<stop  offset="0.2476" style="stop-color:#EFF8F3"/>
+				<stop  offset="0.374" style="stop-color:#DAF0E4"/>
+				<stop  offset="0.5013" style="stop-color:#BDE3CF"/>
+				<stop  offset="0.6295" style="stop-color:#98D4B4"/>
+				<stop  offset="0.7582" style="stop-color:#6BC193"/>
+				<stop  offset="0.8849" style="stop-color:#37AB6C"/>
+				<stop  offset="1" style="stop-color:#009444"/>
+			</radialGradient>
+			<rect x="0" y="0.4" class="st3" width="543" height="699"/>
+			<polygon class="st4" points="17.5,18.9 524.5,18.9 524.5,681.9 17.5,681.9 17.5,349.5 			"/>
+			<line class="st4" x1="524" y1="351.9" x2="18" y2="351.9"/>
+			<circle class="st4" cx="273.3" cy="352" r="70.9"/>
+			<g>
+				<rect x="156.5" y="572.9" class="st4" width="229" height="109"/>
+				<rect x="209.5" y="623.9" class="st4" width="123" height="58"/>
+				<path class="st4" d="M223.5,572.5c9.8-16,27.4-26.7,47.5-26.7c20.1,0,37.7,10.7,47.5,26.7"/>
+				<path class="st4" d="M17.5,653.4c15.5,0,28.1,12.6,28.1,28.1"/>
+				<path class="st4" d="M524.6,653.4c-15.5,0-28.1,12.6-28.1,28.1"/>
+			</g>
+			<g>
+				<rect x="156.5" y="18.9" class="st4" width="229" height="109"/>
+				<rect x="209.5" y="18.9" class="st4" width="123" height="58"/>
+				<path class="st4" d="M223.5,127.8c9.8,16,27.4,26.7,47.5,26.7c20.1,0,37.7-10.7,47.5-26.7"/>
+				<path class="st4" d="M17.5,47C33,47,45.6,34.4,45.6,18.8"/>
+				<path class="st4" d="M524.6,47c-15.5,0-28.1-12.6-28.1-28.1"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

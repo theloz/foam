@@ -1,0 +1,95 @@
+/* 
+    Created on : 31-ago-2015, 23.28.28
+    Author     : lorenzo.lombardi
+*/
+html,body{
+	font-weight: 300;
+	font-family: 'Roboto', Calibri, Arial, sans-serif;
+	height:100%;
+	background-color: #888;
+}
+/*#menu-under div{border:1px solid red;}*/
+#foammenutop{margin-bottom:10px;}
+#foammenutop-collapse{line-height:50px;}
+.panel-heading{padding:5px 10px;background-color: #7FFF7F}
+#menu-under a{
+	text-decoration:none;
+	/*margin-left: 10px;*/
+}
+#menu-lower a{
+        text-decoration:none;
+}
+.parentdraw{
+	height: 34px;
+	line-height: 30px;
+}
+.parentdraw img.fimg-wide{
+	width:80%;
+}
+.drawitem{
+	border: 1px solid #bbb;
+	margin-left:3px;
+	padding:0 3px;
+	min-height: 33px;
+	float:left;
+	border-radius: 5px;
+}
+.drawitem a {
+        text-decoration: none;
+}
+.leftmenucontent{
+         height:200px;
+         overflow:auto;
+         width:120%;
+}
+.drawpad{padding: 3px 3px;margin-bottom: 3px;background-color:#e7e7e7;min-width: 88px;text-align: center;}
+.clear{float:none;margin:0;padding:0;clear:both;}
+/* style the tooltip */
+.gray-tooltip + .tooltip > .tooltip-inner {background-color: #888;}
+.gray-tooltip + .tooltip > .tooltip-arrow {border-top-color:#888;}
+.divider-left{border-right:2px solid #888;}
+.contain-all-draw
+{
+    height: 100%;
+    display: table-row;
+}
+.foamdrawcontainer{
+	display:table;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	width:100%;
+	height: 100%;
+	/*margin: 60px 0 0 0;*/
+	min-height: 20px;
+	padding-top: 10px;
+}
+#menu-pl{
+	background-color: #f7f7f7;
+	border-radius: 3px 3px 0 0;
+}
+#menu-pl.no-float, #menu-pl.no-float {
+    float: none; /* thanks baxabbit */
+}
+#item-pl{
+	background-color: #f7f7f7;
+	border-radius: 0 0 0 3px;
+	height: 100%;
+	padding-left:2px;
+	padding-right:2px;
+	display: table-cell;
+	//width: 20%;
+}
+#draw-pl{
+	background-color: #fff;
+	border-radius: 0 0 3px 0;
+	display: table-cell;
+	height: 100%;
+	//width: 80%;
+}
+.color-picker{
+	/*margin: 0;padding:0;*/
+	/*width: 54%;*/
+}
+.pick-a-color-markup {
+	/*margin:10px 0px;*/
+}

@@ -1,0 +1,14 @@
+{
+  "transport": "ftp",
+  "uploadOnSave": true,
+  "deleteLocal": false,
+  "hostname": "ftp.santasabinacalcio.it",
+  "port": "21",
+  "target": "public_html/foam",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "santasab",
+  "password": "t6ytX259sW"
+}
