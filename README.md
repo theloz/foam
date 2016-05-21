@@ -1,5 +1,19 @@
+Project FOAM - FOotball Athletic Manager
+========================================
+
+    My son is a great football fan, not myself :). Talking to his trainer and manager came up that no software at the present time is such good as their requiremets, 
+    hence I write this program.
+    The structure is almost based on PHP (obviously) / Yii 2 / Bootstrap / Jquery
+    All other efforts are on my shoulders... precisely on both my hands.
+    No manual / no docs are available at the present time. I will in the future when the beta release will be ready
+
+Yii 2 Info
+==========
+
+
+
 Yii 2 Basic Project Template
-============================
+----------------------------
 
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
