@@ -7,10 +7,13 @@ The structure is almost based on PHP (obviously) / Yii 2 / Bootstrap / Jquery
 All other efforts are on my shoulders... precisely on both my hands.
 No manual / no docs are available at the present time. I will in the future when the beta release will be ready
 
+To see a live version you can go to http://foam.santasabinacalcio.it
+
+You can access with: thelozspot@gmail.com / pippo
+
+
 Yii 2 Info
 ==========
-
-
 
 Yii 2 Basic Project Template
 ----------------------------
