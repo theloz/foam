@@ -7,7 +7,7 @@ The structure is almost based on PHP (obviously) / Yii 2 / Bootstrap / Jquery
 All other efforts are on my shoulders... precisely on both my hands.
 No manual / no docs are available at the present time. I will in the future when the beta release will be ready
 
-To see a live version you can go to http://foam.santasabinacalcio.it
+To see a live version you can go to <a href="http://foam.santasabinacalcio.it" target="_blank">http://foam.santasabinacalcio.it</a>
 
 You can access with: thelozspot@gmail.com / pippo
 
